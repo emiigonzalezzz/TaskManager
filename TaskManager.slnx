@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Task.Entities/Task.Entities.csproj" />
+  <Project Path="TaskManager.Desktop/TaskManager.Desktop.csproj" Id="87b11eb2-231a-446f-a55f-476653140443" />
+  <Project Path="TaskManagerCuenta/TaskManagerCuenta.csproj" Id="aabe10c1-f100-4d19-b632-ac6167004adb" />
+</Solution>
